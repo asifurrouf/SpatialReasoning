@@ -1,4 +1,4 @@
-#Spatial ability 
+# Spatial ability 
 Spatial ability is the capacity to understand and remember the spatial relations among objects. In a spatial ability test (also called spatial reasoning test) you are required to mentally manipulate 2-dimensional and 3-dimensional figures.
 
 ## What questions can I expect?
